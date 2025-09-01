@@ -50,4 +50,9 @@ Future versions (**AppReaper 2.0**) will expand with features like forced uninst
    ```bash
    git clone https://github.com/your-username/AppReaper.git
    ```
-2.Open ```AppReaper.sln``` in Visual Studio 2022.
+2. Open ```AppReaper.sln``` in Visual Studio 2022.
+3. Make sure you have the .NET Desktop Development workload installed in Visual Studio.
+4. Build and run the project (```Ctrl + F5```).
+5. The app will launch, showing a list of installed applications.
+
+
