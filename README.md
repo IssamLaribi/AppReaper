@@ -55,4 +55,11 @@ Future versions (**AppReaper 2.0**) will expand with features like forced uninst
 4. Build and run the project (```Ctrl + F5```).
 5. The app will launch, showing a list of installed applications.
 
+---
 
+## 📝 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software, but it comes without warranty.
+
+---
