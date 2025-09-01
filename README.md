@@ -50,3 +50,4 @@ Future versions (**AppReaper 2.0**) will expand with features like forced uninst
    ```bash
    git clone https://github.com/your-username/AppReaper.git
    ```
+2.Open ```AppReaper.sln``` in Visual Studio 2022.
